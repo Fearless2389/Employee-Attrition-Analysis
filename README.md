@@ -1,16 +1,16 @@
-# 🧠 Employee Attrition & Financial Impact Analysis
+#  Employee Attrition & Financial Impact Analysis
 
 This machine learning project combines **classification** and **regression** to help companies:
 - Predict which employees are likely to leave
 - Estimate future salary of those who stay
 - Calculate the expected financial loss from attrition
 
-📌 Built using: Python, Scikit-learn, Pandas, Matplotlib, Seaborn  
-📁 Dataset: IBM HR Analytics Attrition Dataset [(https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset]
+ Built using: Python, Scikit-learn, Pandas, Matplotlib, Seaborn  
+ Dataset: IBM HR Analytics Attrition Dataset [(https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset]
 
 ---
 
-## 📌 Objectives
+##  Objectives
 
 1. **Attrition Prediction** (Classification)
 2. **Future Salary Simulation** (based on performance)
