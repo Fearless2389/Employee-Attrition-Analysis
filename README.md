@@ -6,7 +6,7 @@ This machine learning project combines **classification** and **regression** to 
 - Calculate the expected financial loss from attrition
 
 📌 Built using: Python, Scikit-learn, Pandas, Matplotlib, Seaborn  
-📁 Dataset: IBM HR Analytics Attrition Dataset ([(https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset]
+📁 Dataset: IBM HR Analytics Attrition Dataset [(https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset]
 
 ---
 
@@ -56,15 +56,6 @@ This machine learning project combines **classification** and **regression** to 
 ✔️ Top 10 feature importances (Random Forest)  
 ✔️ Expected loss distribution across employees
 
----
-
-## 📁 Files in This Repository
-
-| File Name                                       | Description                                |
-|------------------------------------------------|--------------------------------------------|
-| `Employee_Attrition_Analysis_Colab_Visual.ipynb` | Final notebook with code, outputs & plots |
-
-| `Readme.md` | Full written report |
 
 
 
